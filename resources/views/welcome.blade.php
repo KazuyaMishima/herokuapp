@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hola Mundo
+                    Funcionando de la PTM
                 </div>
 
                 <div class="links">
